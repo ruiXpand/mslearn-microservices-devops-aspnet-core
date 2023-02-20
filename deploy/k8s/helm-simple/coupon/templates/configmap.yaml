@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: coupon-cm2
+  name: coupon-cm
   labels:
     app: eshop
     service: coupon
